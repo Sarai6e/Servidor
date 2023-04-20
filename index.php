@@ -8,10 +8,6 @@
 </head>
 <body>
     <h1>Hello world, desde el servidor</h1>
-
-        <body>
-        <?php echo '<p>Hola Mundo</p>
-        </body>
-        </html>
+    <h2><?php echo "Con PHP" ?></h2>
 </body>
 </html>
