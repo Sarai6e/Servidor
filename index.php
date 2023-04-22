@@ -1,3 +1,4 @@
+<!--Hola mundo en el servidor y php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
